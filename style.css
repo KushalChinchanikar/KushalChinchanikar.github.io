@@ -12,7 +12,7 @@ html,body {
 .container
 {
   margin:0px;
-  background-image:url(./Images/Truck_vector.png);
+  background-image:url(./Truck_vector.png);
   background-repeat: no-repeat;
   /* background-attachment: fixed; */
   background-size: 100% 100%;
